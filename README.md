@@ -1,0 +1,1 @@
+# mtasa-map-images
