@@ -13,3 +13,8 @@ Map images were made using orthographic projection matrix.
 - Daytime, with shadows.
 
 ![Default map](https://i.imgur.com/dAV1yEf.jpg)
+
+### Noshadow
+- Daytime, without shadows.
+
+![Noshadow map](https://i.imgur.com/OD2vR66.jpg)
