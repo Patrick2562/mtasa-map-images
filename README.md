@@ -18,3 +18,8 @@ Map images were made using orthographic projection matrix.
 - Daytime, without shadows.
 
 ![Noshadow map](https://i.imgur.com/OD2vR66.jpg)
+
+### Night
+- Nighttime, with shadows.
+
+![Night map](https://i.imgur.com/jE2bwoA.jpg)
